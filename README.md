@@ -1,6 +1,6 @@
 # Desafio de Projeto sobre Git/Github no DIO
 
-Repositório sobre Git/Github.
+Repositório criado para o Desafio de Projeto.
 
 Criando um plano de estudos simplificados para quem gostaria de iniciar na programação Git/Github.
 
