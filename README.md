@@ -42,7 +42,9 @@ Criando um plano de estudos simplificados para quem gostaria de iniciar na progr
 
 - [ ] Parte 1 (15/11/2022) 
 
+### Link útil
 
+> Sobre o Markdown: [Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Tasks para maximar o aprendizados:
 - [ ] Começar a estudar front
